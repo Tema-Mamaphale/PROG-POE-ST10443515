@@ -1,0 +1,21 @@
+Name saved: Mamaphale
+Chat: tell me about passwords
+Tip requested
+Chat: give me a tip about vpn
+Tip requested
+Chat: give me a tip
+Chat: what is malware
+Chat: i am worried
+Chat: yyh
+Quiz started.
+Quiz Q1: Incorrect
+Quiz Q2: Incorrect
+Quiz Q3: Incorrect
+Quiz Q4: Correct
+Quiz Q5: Incorrect
+Quiz Q6: Correct
+Quiz Q7: Incorrect
+Quiz Q8: Incorrect
+Quiz Q9: Incorrect
+Quiz Q10: Correct
+Quiz completed: 3/10

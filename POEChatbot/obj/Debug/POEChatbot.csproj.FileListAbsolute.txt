@@ -1,0 +1,17 @@
+C:\New folder\POEChatbot\bin\Debug\POEChatbot.exe.config
+C:\New folder\POEChatbot\bin\Debug\POEChatbot.exe
+C:\New folder\POEChatbot\bin\Debug\POEChatbot.pdb
+C:\New folder\POEChatbot\bin\Debug\Newtonsoft.Json.dll
+C:\New folder\POEChatbot\bin\Debug\Newtonsoft.Json.xml
+C:\New folder\POEChatbot\obj\Debug\POEChatbot.csproj.AssemblyReference.cache
+C:\New folder\POEChatbot\obj\Debug\MainWindow.baml
+C:\New folder\POEChatbot\obj\Debug\MainWindow.g.cs
+C:\New folder\POEChatbot\obj\Debug\App.g.cs
+C:\New folder\POEChatbot\obj\Debug\POEChatbot_MarkupCompile.cache
+C:\New folder\POEChatbot\obj\Debug\POEChatbot.g.resources
+C:\New folder\POEChatbot\obj\Debug\POEChatbot.Properties.Resources.resources
+C:\New folder\POEChatbot\obj\Debug\POEChatbot.csproj.GenerateResource.cache
+C:\New folder\POEChatbot\obj\Debug\POEChatbot.csproj.CoreCompileInputs.cache
+C:\New folder\POEChatbot\obj\Debug\POEChatbot.csproj.Up2Date
+C:\New folder\POEChatbot\obj\Debug\POEChatbot.exe
+C:\New folder\POEChatbot\obj\Debug\POEChatbot.pdb
