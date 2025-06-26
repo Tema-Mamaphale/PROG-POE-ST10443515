@@ -2,6 +2,11 @@
 
 A WPF-based desktop chatbot built in C# to help users improve their cybersecurity knowledge. The application offers an engaging chat interface, task manager with reminders, and a dynamic quiz feature — all supported by a lightweight NLP-style response system.
 
+## 🔗 Quick Access
+
+- 🔍 **GitHub Project Repository:** 
+- 🎥 **Video Presentation (YouTube):** 
+
 ---
 
 ## 🚀 Features
@@ -127,3 +132,4 @@ ST10443515
 
 🛡️ License
 This project is open-source and free to use for educational and personal purposes.
+
