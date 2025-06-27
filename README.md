@@ -5,7 +5,7 @@ A WPF-based desktop chatbot built in C# to help users improve their cybersecurit
 ## 🔗 Quick Access
 
 - 🔍 **GitHub Project Repository:**  https://github.com/Tema-Mamaphale/PROG-POE-ST10443515
-- 🎥 **Video Presentation (YouTube):** 
+- 🎥 **Video Presentation (YouTube):**  https://youtu.be/1rCoD9t62_s
 
 ---
 
